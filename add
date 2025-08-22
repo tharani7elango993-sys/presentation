@@ -1,4 +1,4 @@
 a=2
-b=4
-res=a+b
-print(res)
+b=7
+c=a+b
+print(c)
